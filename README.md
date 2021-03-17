@@ -1,1 +1,4 @@
 # etchy_sktchy
+
+# Plan: 
+
